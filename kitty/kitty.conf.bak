@@ -1,0 +1,14 @@
+shell /usr/bin/zsh
+font_size 20
+window_margin_width 3
+window_border_width 2pt
+enabled_layouts Tall, *
+# active_border_color #d5c4a1
+# inactive_border_color #FAFAFA
+
+
+
+# BEGIN_KITTY_THEME
+# Kanagawa_dragon
+include current-theme.conf
+# END_KITTY_THEME
